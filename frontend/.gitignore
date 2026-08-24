@@ -1,0 +1,29 @@
+# Environment & secrets
+.env
+backend/.env
+
+# Python virtual environment
+.venv/
+backend/.venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Node
+node_modules/
+frontend/node_modules/
+
+# Build
+dist/
+frontend/dist/
+
+# Local databases
+*.db
+*.sqlite3
+
+# IDE / OS
+.vscode/
+.DS_Store
+Thumbs.db
