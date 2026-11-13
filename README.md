@@ -1,7 +1,6 @@
 # FinPilot AI — Autonomous AI Finance Controller
 
 > **Your Autonomous AI Finance Controller**  
-> *Submission for Razorpay AI Builder Internship 2026 — Track 4: AI Finance Controller*
 
 ---
 
